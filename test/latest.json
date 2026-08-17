@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "notes": "Signed Calculator Test update channel initialized.",
+  "pub_date": "2026-08-17T00:00:45Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbkRjNHErcEVyTnBzbzVHSGZOQzZidHR1R1RkOU5TN2g1VDRHL0FrR3l5WVNHaDhjdUhVZXQ5aElBZWkyTE1qMFdmYTNtbHRzcXRsOHNZaHVBK2xZMTBTbko2bkhrVFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTI0ODI3CWZpbGU6Q2FsY3VsYXRvciBUZXN0LmFwcC50YXIuZ3oKZGlWOUlsc3dQUFREckVPOVQ1bXhQR05NVmYwUHo0eGV4SFRaQkRVaDBpTzBoazVtWVFqaTR5QXpkV1p4QlE5V3ZuWDV5WllsS2NmTHo0anIvVTdkRGc9PQo=",
+      "url": "https://github.com/Bedurion/Calculator-Releases/releases/download/calculator-test-v0.2.0/Calculator-Test_0.2.0_aarch64.app.tar.gz"
+    }
+  }
+}
