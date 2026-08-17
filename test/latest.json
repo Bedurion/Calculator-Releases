@@ -1,11 +1,11 @@
 {
-  "version": "0.2.9",
-  "notes": "Keeps local workspaces visible while the online licence reconnects during a signed version rollout.",
-  "pub_date": "2026-08-17T02:33:21Z",
+  "version": "0.2.10",
+  "notes": "Automatic secure update reconnection with public error codes and no internal endpoint details.",
+  "pub_date": "2026-08-17T11:55:52Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbkRjNHErcEVyTnNsM2pkRWZjY095bi8yUXJpRTdyV2pldFplVm9lcjBYNjExUllTTlRkODhUVDFnaitlY2gzbWZCdks2YzlJWnl2THMrVGp3RXN3YjBvaW5uczNteWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTMzOTYxCWZpbGU6Q2FsY3VsYXRvciBUZXN0LmFwcC50YXIuZ3oKVUJoSDFRNTRUTGhkaStIV1laM1RZcFV6RVpUbHRhbHdTZWRLTFVmWCtqMkRyS2lXdjVWa0pPK21vUnVXRkc3TjFKcStGL3JtY2h6MWlVbHcyRHdNQkE9PQo=",
-      "url": "https://github.com/Bedurion/Calculator-Releases/releases/download/calculator-test-v0.2.9/Calculator.Test.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbkRjNHErcEVyTm9EaFFrKzNlaWdPekkvUlNLTW9uaXp0M2JJWTZtWlJSaWtTZnczOW1kMFdkVnZZV0lPVUsreGIvck1OUU53U2lyS2ozWUFvcSt6ZUhSK3Zxd0ZnV1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTY3NjkxCWZpbGU6Q2FsY3VsYXRvciBUZXN0LmFwcC50YXIuZ3oKMDJlbHJvcTREUXZsaTlva0VoQUFVMVRndUE0NEdGNCtvSnlRSnlUZGRkcVBBNTdiNjhHbWFodVVIQWJjUnRkSnpvOW42ZGltU1RUVDZRUzRTaHNNQ1E9PQo=",
+      "url": "https://github.com/Bedurion/Calculator-Releases/releases/download/calculator-test-v0.2.10/Calculator.Test.app.tar.gz"
     }
   }
 }
