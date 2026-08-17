@@ -1,11 +1,11 @@
 {
-  "version": "0.2.5",
-  "notes": "Unified Connected/Updated status inside the app and a refined blank-terminal state without the stray diagonal line.",
-  "pub_date": "2026-08-17T01:28:39Z",
+  "version": "0.2.6",
+  "notes": "Private authentication copy and automatic licence renewal after an in-place application update.",
+  "pub_date": "2026-08-17T01:40:35Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbkRjNHErcEVyTm9QNGplQmUybmQ4Ylh4Mm0rWXJQZnN6SkNCRys1UnRNNUQxNXh0eGx2UUN2bS9USGdsMUZHU1c0OVFtZktiK3R0YTd5c1dZbkNiYk9wcWRYT3hrQVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTMwMDkzCWZpbGU6Q2FsY3VsYXRvciBUZXN0LmFwcC50YXIuZ3oKcDdsWDZsWW5XV3l6OTdHZ2xSQU84NGtUWTVWVGk4OGFvSUlqcGNiLzJ2aVhWRG5sN0crK2QzVitRQzZYQWZEb2IrNHhLS1RjZTFHL1hLL1QyRE5tQ3c9PQo=",
-      "url": "https://github.com/Bedurion/Calculator-Releases/releases/download/calculator-test-v0.2.5/Calculator.Test.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbkRjNHErcEVyTnVyRE56blhhbVd0Y0pEREpXd1FFYlcyRXdWd2k3V0owMThYNnB4V2Z5Y2Y5WDZvU1NJeWpQaVpNMGRML3BNYm40d2hxdE1EejZCR3VQVTRBUnFMa3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTMwODEyCWZpbGU6Q2FsY3VsYXRvciBUZXN0LmFwcC50YXIuZ3oKeUhPdGFwT1FwZmRpMW9Wd2YySWhodzlWeDNLV2JHWW5NUG8rUFZoR0xUOWNGUmpUd3dJTUE1Y1ZiZFZETENrQkVMZUFvUDdBZ0tCVnhoSzhFd2o0QUE9PQo=",
+      "url": "https://github.com/Bedurion/Calculator-Releases/releases/download/calculator-test-v0.2.6/Calculator.Test.app.tar.gz"
     }
   }
 }
