@@ -1,11 +1,11 @@
 {
-  "version": "0.2.6",
-  "notes": "Private authentication copy and automatic licence renewal after an in-place application update.",
-  "pub_date": "2026-08-17T01:40:35Z",
+  "version": "0.2.7",
+  "notes": "Silent licence retries during version rollouts and clear first-party Viotus security copy.",
+  "pub_date": "2026-08-17T01:49:14Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbkRjNHErcEVyTnVyRE56blhhbVd0Y0pEREpXd1FFYlcyRXdWd2k3V0owMThYNnB4V2Z5Y2Y5WDZvU1NJeWpQaVpNMGRML3BNYm40d2hxdE1EejZCR3VQVTRBUnFMa3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTMwODEyCWZpbGU6Q2FsY3VsYXRvciBUZXN0LmFwcC50YXIuZ3oKeUhPdGFwT1FwZmRpMW9Wd2YySWhodzlWeDNLV2JHWW5NUG8rUFZoR0xUOWNGUmpUd3dJTUE1Y1ZiZFZETENrQkVMZUFvUDdBZ0tCVnhoSzhFd2o0QUE9PQo=",
-      "url": "https://github.com/Bedurion/Calculator-Releases/releases/download/calculator-test-v0.2.6/Calculator.Test.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbkRjNHErcEVyTmtmc1ZGWUZYQWZKYnZBZERTeW1BRFVzM3hkalFZL3lock8vb29ybFgzTjgzb25ML1NmMVZNWjUxTWZ4cjUyWEs5K0x0STBlQlJIdnM2dC9zL0U1cEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTMxMzIzCWZpbGU6Q2FsY3VsYXRvciBUZXN0LmFwcC50YXIuZ3oKZlcrMkpXMXZxajFsbml3anZJcjhxaVlwcmFpbVZWMHFWbmtPck8vVmpRa3J4Y0pKUE9TOXVKK2MycEIrKzg2d2FDaml1QlBUNWxtak1SeDhnSWUyQnc9PQo=",
+      "url": "https://github.com/Bedurion/Calculator-Releases/releases/download/calculator-test-v0.2.7/Calculator.Test.app.tar.gz"
     }
   }
 }
