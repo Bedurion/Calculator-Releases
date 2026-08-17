@@ -1,11 +1,11 @@
 {
-  "version": "0.2.1",
-  "notes": "Mandatory signed automatic updater, polished startup gate and redesigned secure login.",
-  "pub_date": "2026-08-17T00:06:00Z",
+  "version": "0.2.2",
+  "notes": "Requires exact agreement with the signed release channel and bounds the startup version check.",
+  "pub_date": "2026-08-17T00:16:03Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbkRjNHErcEVyTmpQMU5JWlg0Q0RVNVMwZTg2VUJwRHd3T0xxc2VZZDJQTmZnTS91MTFOZllCVUw2S1FaV2NjOG90dEJ6ekRtWGxtRldxbzdnVC80dzU1NE85djJWSXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTI1MTU3CWZpbGU6Q2FsY3VsYXRvciBUZXN0LmFwcC50YXIuZ3oKT0F1S09QR3dmSDZKNFQwclFaaFJ3TE5kdmJ4M2NOTlVvOVJvZ3JkdzRzUmZuLzdqVkt6NkpkU0xkUWR3dUs5aFYySng2K0RTMW00QmcrZE53TXFLQVE9PQo=",
-      "url": "https://github.com/Bedurion/Calculator-Releases/releases/download/calculator-test-v0.2.1/Calculator-Test_0.2.1_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbkRjNHErcEVyTnRkbi8zS1c1MHRPVWpmczFTRDIrbDFkTURSWnYwa2JraUp1bzZ4OEVLSVVBMjc2R3NhOVVyZW0xWnhydW91UUNreU1IUFU3Tm43VlhVMjFCSE9Ed0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTI1NzYzCWZpbGU6Q2FsY3VsYXRvciBUZXN0LmFwcC50YXIuZ3oKaXA1alI2eVBwSnI0K01kNTlVUTdCaDlybkpkZnRuVWZwdXUyNE4vRFl0SUVNVmF5bk43Yk9pNHlsRGJnMWpQMVJCUU1Xb2pCK0gzaS90Q0k2UDV0QWc9PQo=",
+      "url": "https://github.com/Bedurion/Calculator-Releases/releases/download/calculator-test-v0.2.2/Calculator-Test_0.2.2_aarch64.app.tar.gz"
     }
   }
 }
