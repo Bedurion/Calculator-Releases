@@ -1,11 +1,11 @@
 {
-  "version": "0.2.10",
-  "notes": "Automatic secure update reconnection with public error codes and no internal endpoint details.",
-  "pub_date": "2026-08-17T11:55:52Z",
+  "version": "0.2.11",
+  "notes": "Intelligent system runs with real dependency stages, safe compatible aggregation and visible value routes.",
+  "pub_date": "2026-08-17T12:40:54Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbkRjNHErcEVyTm9EaFFrKzNlaWdPekkvUlNLTW9uaXp0M2JJWTZtWlJSaWtTZnczOW1kMFdkVnZZV0lPVUsreGIvck1OUU53U2lyS2ozWUFvcSt6ZUhSK3Zxd0ZnV1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTY3NjkxCWZpbGU6Q2FsY3VsYXRvciBUZXN0LmFwcC50YXIuZ3oKMDJlbHJvcTREUXZsaTlva0VoQUFVMVRndUE0NEdGNCtvSnlRSnlUZGRkcVBBNTdiNjhHbWFodVVIQWJjUnRkSnpvOW42ZGltU1RUVDZRUzRTaHNNQ1E9PQo=",
-      "url": "https://github.com/Bedurion/Calculator-Releases/releases/download/calculator-test-v0.2.10/Calculator.Test.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbkRjNHErcEVyTmtYRjczU3BSOHpOMlVqU1NiYjlqUUdxdnRuZ0YwME54eUUvOGdMQlp0blNJbEZLTVhqQXZ1S2JTdWY1K1cxSUE3NnowdXUzVlJneDhJYTMwVXhVMFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTcwNDMwCWZpbGU6Q2FsY3VsYXRvciBUZXN0LmFwcC50YXIuZ3oKQUdUc1FOYnprVjNZV3NWZ20zWGFKS1BsaGpaMFFTanpxQ1Q5MVF5eC9ONU5uV0hWY1JRZlVDQzRpaVYycjhKeURURXZhTC9lUFpvdFhTUXZDMzBNQXc9PQo=",
+      "url": "https://github.com/Bedurion/Calculator-Releases/releases/download/calculator-test-v0.2.11/Calculator.Test.app.tar.gz"
     }
   }
 }
