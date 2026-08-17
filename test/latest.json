@@ -1,11 +1,11 @@
 {
-  "version": "0.2.3",
-  "notes": "Unified Calculator title, improved remembered-email control, and live verified-version indicators on login and inside the app.",
-  "pub_date": "2026-08-17T00:40:37Z",
+  "version": "0.2.4",
+  "notes": "Compact remembered-email preference and combined Connected/Updated login status.",
+  "pub_date": "2026-08-17T01:02:09Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbkRjNHErcEVyTmxuWllES2JvbVFkblJ4aGtBYlFIYTNZOWpLYnBnN2pqbmc0Z3ovYUdhM21sUVd2NUNvRUtYSGxtdWU3Qi92K3V1VTZiL2lJNWlaQUd3YlorUC93aFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTI3MjE4CWZpbGU6Q2FsY3VsYXRvciBUZXN0LmFwcC50YXIuZ3oKODhtdGV0T0t1ZkxxNkxHVWdOZVBSRW1sRUVrQ25ERVNwdXh5RCtvSUF0ZWUxSWtVdTJiVElWWWFkS0NQM1RHR01zakdvVUlPekZEZDhHL0xGVTFSQkE9PQo=",
-      "url": "https://github.com/Bedurion/Calculator-Releases/releases/download/calculator-test-v0.2.3/Calculator.Test.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbkRjNHErcEVyTnZHcDdKUk13RngrSDV0cnNHdEE4YlprRGRmZmsyanFwek03SjZISlZCSE5hVzJ1bEx1OTNUaExkbmlQNUh4N3c0UkZocGZSQ2Zlc1g2RElGZGM1ZmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTI4NDU4CWZpbGU6Q2FsY3VsYXRvciBUZXN0LmFwcC50YXIuZ3oKdXJVNmU0cUdZekplYkthUUhSMTdINTBvbTBZWXZmR3BFbnY4akxHNEQ4bnZWRDBaVFQ3THFhUXB6VUtkOTNhZDJpTGFUR1l6b2tmSHJxaDl2VWhiQkE9PQo=",
+      "url": "https://github.com/Bedurion/Calculator-Releases/releases/download/calculator-test-v0.2.4/Calculator.Test.app.tar.gz"
     }
   }
 }
