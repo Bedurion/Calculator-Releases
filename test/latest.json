@@ -1,11 +1,11 @@
 {
-  "version": "0.2.8",
-  "notes": "Clear visual feedback for block and system calculations, including completion state, recalculated block count, and execution time.",
-  "pub_date": "2026-08-17T02:19:33Z",
+  "version": "0.2.9",
+  "notes": "Keeps local workspaces visible while the online licence reconnects during a signed version rollout.",
+  "pub_date": "2026-08-17T02:33:21Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbkRjNHErcEVyTm94aWptSjlnb1BEMDJNdHhvWWJ4NGdBMzJhRFY4YWZLSzhoaEpqdnFqRkdOSzJIelBNaGVVOEtzdElTZFA3VTJhSlQyUTVDQlJOVnpBc1ZueVpjSndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTMzMTExCWZpbGU6Q2FsY3VsYXRvciBUZXN0LmFwcC50YXIuZ3oKSVppODNhbWZCWERQZmYrZkdRUjQxVzVONkJvZm5wVm40SE1YODNkQWd5N0hjZnV4ZmJyMFVSbnQyRWJlY1BiT2h1YURuMWU4c2UrQ3VFdHkyMzJJQ1E9PQo=",
-      "url": "https://github.com/Bedurion/Calculator-Releases/releases/download/calculator-test-v0.2.8/Calculator.Test.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbkRjNHErcEVyTnNsM2pkRWZjY095bi8yUXJpRTdyV2pldFplVm9lcjBYNjExUllTTlRkODhUVDFnaitlY2gzbWZCdks2YzlJWnl2THMrVGp3RXN3YjBvaW5uczNteWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTMzOTYxCWZpbGU6Q2FsY3VsYXRvciBUZXN0LmFwcC50YXIuZ3oKVUJoSDFRNTRUTGhkaStIV1laM1RZcFV6RVpUbHRhbHdTZWRLTFVmWCtqMkRyS2lXdjVWa0pPK21vUnVXRkc3TjFKcStGL3JtY2h6MWlVbHcyRHdNQkE9PQo=",
+      "url": "https://github.com/Bedurion/Calculator-Releases/releases/download/calculator-test-v0.2.9/Calculator.Test.app.tar.gz"
     }
   }
 }
