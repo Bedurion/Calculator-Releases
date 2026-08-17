@@ -1,11 +1,11 @@
 {
-  "version": "0.2.7",
-  "notes": "Silent licence retries during version rollouts and clear first-party Viotus security copy.",
-  "pub_date": "2026-08-17T01:49:14Z",
+  "version": "0.2.8",
+  "notes": "Clear visual feedback for block and system calculations, including completion state, recalculated block count, and execution time.",
+  "pub_date": "2026-08-17T02:19:33Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbkRjNHErcEVyTmtmc1ZGWUZYQWZKYnZBZERTeW1BRFVzM3hkalFZL3lock8vb29ybFgzTjgzb25ML1NmMVZNWjUxTWZ4cjUyWEs5K0x0STBlQlJIdnM2dC9zL0U1cEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTMxMzIzCWZpbGU6Q2FsY3VsYXRvciBUZXN0LmFwcC50YXIuZ3oKZlcrMkpXMXZxajFsbml3anZJcjhxaVlwcmFpbVZWMHFWbmtPck8vVmpRa3J4Y0pKUE9TOXVKK2MycEIrKzg2d2FDaml1QlBUNWxtak1SeDhnSWUyQnc9PQo=",
-      "url": "https://github.com/Bedurion/Calculator-Releases/releases/download/calculator-test-v0.2.7/Calculator.Test.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbkRjNHErcEVyTm94aWptSjlnb1BEMDJNdHhvWWJ4NGdBMzJhRFY4YWZLSzhoaEpqdnFqRkdOSzJIelBNaGVVOEtzdElTZFA3VTJhSlQyUTVDQlJOVnpBc1ZueVpjSndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTMzMTExCWZpbGU6Q2FsY3VsYXRvciBUZXN0LmFwcC50YXIuZ3oKSVppODNhbWZCWERQZmYrZkdRUjQxVzVONkJvZm5wVm40SE1YODNkQWd5N0hjZnV4ZmJyMFVSbnQyRWJlY1BiT2h1YURuMWU4c2UrQ3VFdHkyMzJJQ1E9PQo=",
+      "url": "https://github.com/Bedurion/Calculator-Releases/releases/download/calculator-test-v0.2.8/Calculator.Test.app.tar.gz"
     }
   }
 }
